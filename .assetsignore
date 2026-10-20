@@ -2,3 +2,5 @@
 .wrangler
 wrangler.toml
 .assetsignore
+align-site-vercel.zip
+README.md

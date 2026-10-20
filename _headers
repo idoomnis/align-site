@@ -1,2 +1,8 @@
 /proposals/*
   X-Robots-Tag: noindex, nofollow
+/Reports/*
+  X-Robots-Tag: noindex, nofollow
+/Carmel*
+  X-Robots-Tag: noindex, nofollow
+/adika-teaser*
+  X-Robots-Tag: noindex, nofollow
